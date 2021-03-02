@@ -7,7 +7,10 @@ Hi, my name is Anya, I am 22 years old. I am from the town of  Slonim, Belarus. 
 ### Skills
 I learned **CSS, HTML and JS** on basic level. I work with GitHub for, don't try some metodology and framework yet.
 ### Examples of code * 
-Hello, world!
+```
+<h1>Hello, world!</h1>
+<p>My name is Anua</p>
+```
 ### Work experience **
 Later...
 ### Education
